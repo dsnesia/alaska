@@ -1,33 +1,33 @@
 let fs = require('fs')
 
 //Info maszeh
-global.owner = ["6285602907674"]
-global.mods = ["6285718828566"]
+global.owner = ["6288220195739"]
+global.mods = ["6285786530730"]
 
-global.namabot = 'IceBotz' //nama BOT Lu
-global.packname = 'IceBotz'
-global.author = 'StarAlaska' //nama Owner
-global.ownernya = '6285602907674'
-global.linkyt = 'https://youtube.com/@xynabotzreal' //link yt lu
-global.linkig = 'https://instagram.com/faelfilaa' //link ig
-global.linkgh = '-' //link github lu
-global.titlebot = `⫹⫺ WhatsApp Bot | By IceBotz`
+global.namabot = 'LoliBot' //nama BOT Lu
+global.packname = 'LoliBot'
+global.author = 'Pecinta Loli' //nama Owner
+global.ownernya = '6288220195739'
+global.linkyt = 'https://www.youtube.com/@user-qd3yo9sd2u' //link yt lu
+global.linkig = 'https://instagram.com/dstopup_' //link ig
+global.linkgh = 'https://github.com/dsnesia/' //link github lu
+global.titlebot = `⫹⫺ WhatsApp Bot | By LoliBotz`
 global.wm2 = 'bruh' //ganti aja kalau mau
-global.wm = 'IceBotz'
+global.wm = 'LoloBotz'
 global.colong1 = 'Ciss 📸'
-global.colong2 = 'IceBotz'
+global.colong2 = 'LoliBotz'
 global.kontak2 = [
 ['6285602907674', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
 ]
 
 //Biodata OWNER Bre
-global.RL = 'StarAlaska' //Nama RL Lu
+global.RL = 'Andika' //Nama RL Lu
 global.gender = 'Cowok' //jenis kelamin lu
 global.agama = 'islam' //agama lu
-global.age = '13' //usia lu sekarang
-global.kelas = '8' //kelas lu
-global.hobi = 'Mangan/turu/ngoding' //hobi lu bre
-global.tempat = 'INDONESIA , BOGOR JABAR' //tempat tinggal lu
+global.age = '15' //usia lu sekarang
+global.kelas = '10' //kelas lu
+global.hobi = 'Mangan/turu' //hobi lu bre
+global.tempat = 'INDONESIA , GROBOGAN JATENG' //tempat tinggal lu
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -88,7 +88,7 @@ global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓.
 //========Url Template Buttons=========//
 //Jan Diganti Eror Ntar Nangis
 global.dtu = 'Group bot'
-global.urlnya = "https://chat.whatsapp.com/DYDvWcAnMwQC5XO1c2AZ9E"
+global.urlnya = "https://chat.whatsapp.com/EzTmgJdpOCu1sDmRNWLWva"
 global.versi = '2.0.0'
 
 //============= callButtons =============//
